@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Sujata Yadav</title>
+<link>http:/localhost/newstand/web</link>
+<description>Newstand Website</description>
+<item>
+  <title>News 1</title>
+  <link>http://news1</link>
+  <guid>123</guid>
+  <pubDate>Fri, 27 Aug, 2015</pubDate>
+  <description>[CDATA[ This is the description. ]]</description>
+</item>
